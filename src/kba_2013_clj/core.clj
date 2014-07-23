@@ -1,6 +1,5 @@
 (ns kba-2013-clj.core
   "Core namespace"
-  (:gen-class :main true)
   (:require [clojure.java.io :as io]
             [clojure.tools.cli :refer [parse-opts]])
   (:use [byte-streams]
