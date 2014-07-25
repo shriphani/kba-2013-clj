@@ -13,4 +13,4 @@
                  [org.clojure/clojure "1.6.0"]
                  [org.clojure/tools.cli "0.3.1"]]
   :java-source-paths ["gen-java"]
-  :main kba-2013-clj.dump-uri)
+  :main kba-2013-clj.dump-uris)
