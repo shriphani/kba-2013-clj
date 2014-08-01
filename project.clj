@@ -11,6 +11,7 @@
                  [org.apache.thrift/libthrift "0.9.1"]
                  [org.bovinegenius/exploding-fish "0.3.4"]
                  [org.clojure/clojure "1.6.0"]
-                 [org.clojure/tools.cli "0.3.1"]]
+                 [org.clojure/tools.cli "0.3.1"]
+                 [subotai "0.2.12"]]
   :java-source-paths ["gen-java"]
   :main kba-2013-clj.dump-uris)
